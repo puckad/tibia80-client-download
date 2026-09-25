@@ -16,4 +16,4 @@ Keep every extracted file together. Windows may show a security prompt because t
 
 ## Connection
 
-Server: `109.247.135.8:7171`
+Server: `tibianordic.ddns.net:7171`
