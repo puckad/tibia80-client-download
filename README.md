@@ -4,12 +4,13 @@ Ready-to-play Windows client.
 
 ## Download
 
-Download `Tibia80-Client-Windows.zip` from the Releases section.
+[Download Tibia80-Client-Windows.zip](https://github.com/puckad/tibia80-client-download/raw/refs/heads/main/Tibia80-Client-Windows.zip)
 
 ## Installation
 
-1. Extract the complete ZIP to a folder.
-2. Run `Play Tibia80.cmd`.
+1. Download the ZIP using the link above.
+2. Extract the complete ZIP to a folder.
+3. Run `Play Tibia80.cmd`.
 
 Keep every extracted file together. Windows may show a security prompt because this is a custom unsigned client.
 
