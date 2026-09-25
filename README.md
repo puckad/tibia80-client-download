@@ -1,6 +1,6 @@
 # Tibia 8.0 Client
 
-Ready-to-play Windows client.
+Ready-to-play Windows client configured for the game server.
 
 ## Download
 
@@ -16,4 +16,4 @@ Keep every extracted file together. Windows may show a security prompt because t
 
 ## Connection
 
-This package is currently configured for `127.0.0.1:7171`, which connects only when the game server runs on the same computer. The server address must be updated before remote players can connect.
+Server: `109.247.135.8:7171`
