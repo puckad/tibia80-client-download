@@ -9,11 +9,13 @@ Ready-to-play Windows client configured for the game server.
 ## Installation
 
 1. Download the ZIP using the link above.
-2. Extract the complete ZIP to a folder.
-3. Run `Play Tibia80.cmd`.
+2. Install [Tailscale for Windows](https://tailscale.com/download/windows).
+3. Join the server owner's Tailscale network and connect Tailscale.
+4. Extract the complete ZIP to a folder.
+5. Run `Play Tibia80.cmd`.
 
 Keep every extracted file together. Windows may show a security prompt because this is a custom unsigned client.
 
 ## Connection
 
-Server: `tibianordic.ddns.net:7171`
+Server: `100.112.206.23:7171` through Tailscale
